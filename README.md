@@ -1,4 +1,4 @@
-# Api-Polling-System
+# Polling_System_API
 Description :
 1. We can create question.
 2. We can delete Question.
@@ -38,7 +38,7 @@ For development, you will only need Node.js and a node global package installed 
 ## Install
 
 ```
-$ git clone https://github.com/AshishRanjan9ar/API-Polling-system
+$ git clone https://github.com/AshishRanjan9ar/Polling_System_API
 $ cd Api-Polling-system
 $ npm install
 ```
